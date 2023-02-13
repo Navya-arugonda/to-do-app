@@ -1,5 +1,5 @@
 
-# To-Do App - Kanban 
+# To-Do App 
 ## Customizable Kanban board like Task Manager
 
 
